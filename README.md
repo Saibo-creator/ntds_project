@@ -43,7 +43,9 @@ That is especially relevant to PhD students who want to apply the knowledge acqu
   - The goal of the project is to exploit the connection of the soccer player transfers among clubs in different European leagues. The analysis will be implemented in the network approach. During the project, we will create a graph based on the transfer of soccer players and exploit the data with tools like clustering, dimensionality reduction, classification, etc.
 
 - Dataset
-  The dataset that we choose to use are __Player Transfer Data of nine majors European football leagues from 1992 to 2018__ :
+  The dataset that we choose to use are __Player Transfer Data of nine majors European football leagues from 1992 to 2018__ :[data](https://github.com/ewenme/transfers/tree/master/data)
+
+  
 
    -  English Premier League
 -  English Championship 
