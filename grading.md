@@ -53,4 +53,4 @@ Bonus points can be attributed in each category for going the extra mile.
 	* well written: clarity, conciseness 
 * oral: presentation skills (organization, clarity)
 * github repository: README, LICENSE, documented, organization (notebooks and python modules), reproducible, good coding practice (comments, docstrings)
-* example bonus: published interactive visualization
+* example bonus: ***published interactive visualization***
