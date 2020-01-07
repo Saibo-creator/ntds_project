@@ -34,7 +34,7 @@ Bonus points can be attributed in each category for going the extra mile.
 ### 4. Exploitation (30 points)
 
 * at least one of the following tools, seen during the lectures, is used:
-	* **clustering (spectral clustering, k-means)**
+	* ~~**clustering (spectral clustering, k-means)**~~  
 	* graph Fourier transform 
 	* regularization (graph Tikhonov, graph total variation) 
 	* **dimensionality reduction (PCA, MDS, LLE, ISOMAP, Laplacian eigenmaps, t-SNE)**
