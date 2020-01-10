@@ -12,7 +12,7 @@
 - Dataset
   The dataset that we choose to use are: 
 
- 	1. __Player Transfer Data of nine majors European football leagues from 1992 to 2018__ :[data](https://github.com/ewenme/transfers/tree/master/data) 		
+1. __Player Transfer Data of nine majors European football leagues from 1992 to 2018__ :[data](https://github.com/ewenme/transfers/tree/master/data) 		
 
 - Dutch eredivisie
 - French ligue 1
@@ -24,9 +24,9 @@
 -  English championship
 -  English Premier League
 
-2. FIFA 2020 complete player dataset:[data](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset) 
+2. __FIFA 2020 complete player dataset__:[data](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset) 
 
-3.  Global Club Soccer Rankings  [data](https://projects.fivethirtyeight.com/global-club-soccer-rankings/)
+3.  __Global Club Soccer Rankings__  [data](https://projects.fivethirtyeight.com/global-club-soccer-rankings/)
 
 Each dataset include features such as : __club name,	player, name,	age,	position,	club involved name,	fee	transfer movement,	fee cleaned	league name,	year__
 
