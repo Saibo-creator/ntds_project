@@ -36,8 +36,8 @@ We merged  these data into several comprehensive dataset and proceed analysis in
 __Clubs based network__: Each club represents a node and the link would represent a transfer(transfers ) between two clubs and the weight could be for example the transfer fee amount or the number of transfers.
     
 The tools that we choose to use:
-__Clustering (spectral clustering, k-means)__ 
-__Graph based machine learning __
+__clustering (spectral clustering, k-means)
+dimensionality reduction (PCA, MDS, LLE, ISOMAP, Laplacian eigenmaps, t-SNE)__
 
 
 
@@ -55,7 +55,7 @@ In terms of the analysis of the structure of the network, we would like to inves
 
 - Are there clusters of clubs that trade mainly with each other (in terms of number of players / fees)?
 
-We would like to performe some classification task, such as for example:
+We would like to performe some classification task, such as for example (need to rewrite / more ideas):
 
 - Is it possible to infer the wealth of a club by analyzing the patterns of transfers between it and other clubs
 
