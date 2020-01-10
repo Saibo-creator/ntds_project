@@ -59,7 +59,7 @@ We would like to performe some classification task, such as for example (need to
 
 - Is it possible to infer the wealth of a club by analyzing the patterns of transfers between it and other clubs
 
-An interactive visualization of our football player transfer network is published online. [Here](https://zx-joe.github.io/Soccer_Transfer_Network/) 
+## An interactive visualization of our football player transfer network is published online. [Here](https://zx-joe.github.io/Soccer_Transfer_Network/) 
 
 License: [MIT](https://opensource.org/licenses/MIT)
 
